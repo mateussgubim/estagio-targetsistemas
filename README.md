@@ -1,5 +1,4 @@
-# estagio-targetsistemas
-Questões do desafio para o estágio da Target Sistemas
+# Questões do desafio para o estágio da Target Sistemas
 
 1 - Observe o trecho de código abaixo: 
 ```
