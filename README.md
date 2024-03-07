@@ -49,7 +49,10 @@ f) 2, 10, 12, 16, 17, 18, 19, `20`
 Como você faria para descobrir, usando apenas duas idas até uma das salas das lâmpadas, qual interruptor controla cada lâmpada?  
 
 R: Supondo que todos os interruptores estejam na posição de desligado, eu ligaria o primeiro e o terceiro, e verificaria quais lâmpadas acenderam. Após isso, voltaria e apagaria o último interruptor, e veria novamente qual lâmpada foi apagada; dessa maneira, conseguiria descobrir qual lâmpada é controlada por cada interruptor.
+
     O primeiro controla a lâmpada que ficou acesa o tempo todo.
+
     O segundo controla a lâmpada que não foi acesa em momento algum.
+
     O terceiro controla a lâmpada que foi apagada durante a segunda interação.
 
